@@ -3,6 +3,10 @@
 ## Description
 This lab focuses on building a simple flashcard app using **SwiftUI**. The app allows users to view flashcards, swipe through them, and create new flashcards. It includes basic animations and gesture handling to create a smooth user experience.
 
+## Demo
+
+![Flashcard App Demo](https://github.com/user-attachments/assets/602a288a-89ce-4659-a0e7-2d68567919db)
+
 ## Feature List
 ### Core Features:
 1. **View Flashcards**: Tap to toggle between question and answer.
@@ -12,10 +16,6 @@ This lab focuses on building a simple flashcard app using **SwiftUI**. The app a
 3. **Deck Navigation**: Swipe through the deck of flashcards with smooth animations.
 4. **Reset Deck**: Reset the deck with all cards or only the ones marked for practice.
 5. **Create New Flashcards**: Add new flashcards via a modal form.
-
-## GIF 
-### GIF of Showing a Fully Functioning App
-![Flashcard App Demo](https://github.com/user-attachments/assets/602a288a-89ce-4659-a0e7-2d68567919db)
 
 ## Code Overview
 ### 1. `ContentView.swift`
@@ -55,7 +55,3 @@ You may obtain a copy of the License at
 
 http://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and limitations under the License.
